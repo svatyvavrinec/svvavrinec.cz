@@ -370,9 +370,6 @@ section h3 {
 
 .section-photo {
   width: 100%;
-  max-height: 400px;
-  object-fit: cover;
-  object-position: center top;
   border-radius: 8px;
   margin-bottom: 32px;
 }
